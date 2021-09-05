@@ -1,3 +1,3 @@
 # Django-Project
-Loading
+Loading <br>
 User auth/register 70%
